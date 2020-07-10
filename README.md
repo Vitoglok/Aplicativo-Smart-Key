@@ -8,5 +8,5 @@ aplicativo SmartKey tem como objetivo facilitar o gerenciamento de casas com a u
     Wagner Kenji Franco Kamoei - https://www.linkedin.com/in/wagner-kenji-franco-kamoei-6883791b2/
     João Vitor Sales Nascimento - https://www.linkedin.com/in/jo%C3%A3o-sales-86a37a1b2/
     Nicholas Gabriel Roque dos Santos - https://www.linkedin.com/in/nicholas-gabriel-dos-santos-roque-9113511b2/
-    Pedro Motta Silva -
+    Pedro Motta Silva - https://www.linkedin.com/in/pedro-motta-7471021a9/
     Vitor Alexandre Vargas dos Santos (Master) - https://www.linkedin.com/in/vitor-alexandre-0b63771b2/
